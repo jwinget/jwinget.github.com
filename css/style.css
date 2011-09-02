@@ -208,41 +208,31 @@ td { vertical-align: top; }
 
 
 /* ==|== primary styles =====================================================
-   Author: 
+   Author: Jason Winget
    ========================================================================== */
 
-/*========== My Style ==========*/
-body { background: white; color: #222; }
+body { background: white; color: #666; }
 #container { 
 	width: 800px;
 	margin: auto;
 	margin-top: 0;
+	padding: 0 1em;
+	padding-top: 0;
 	background: white;
 	border-right: 1px solid #999;
 	border-left: 1px solid #999;
 	-moz-box-shadow: 0 0 10px #42433C;
 	-webkit-box-shadow: 0 0 10px #42433C;
 	box-shadow: 0 0 10px #42433c;
-	padding: 0 1em;
 	}
 body { font-family: 'Georgia' serif; font-size: 0.9em; }
 h1 { font-family: 'Garamond', 'Georgia', serif; font-weight: normal; }
 header { text-align: center; }
-header h1 a { text-decoration: none; color: #222; font-size: 1.5em;}
-header h1 a:visited { color: #222; }
-header h2 { font-size: 1em; line-height: 10px; }
-
-
-
-
-
-
-
-
-
-
-
-
+header h1 a { text-decoration: none; color: #666; font-size: 1.5em; line-height: 10px;}
+header h1 a:visited { color: #666; }
+header h2 { font-size: 1em; font-weight: normal; }
+ul.nav { display: inline }
+ul.nav li { padding: 0 0.5em; }
 
 /* ==|== non-semantic helper classes ========================================
    Please define your styles before this section.
