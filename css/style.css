@@ -212,7 +212,13 @@ td { vertical-align: top; }
    ========================================================================== */
 
 /*========== My Style ==========*/
-h1 { font-family: 'Rokkitt', 'Lucida Grand', serif; }
+#main { 
+	width: 600px;
+	margin: auto;
+	}
+h1 { font-family: 'Podkova', 'Lucida Grande', serif; }
+header { text-align: center; }
+header h1 a { text-decoration: none; }
 
 
 
