@@ -221,18 +221,18 @@ body { background: white; color: #666; }
 	background: white;
 	border-right: 1px solid #999;
 	border-left: 1px solid #999;
-	-moz-box-shadow: 0 0 10px #42433C;
-	-webkit-box-shadow: 0 0 10px #42433C;
-	box-shadow: 0 0 10px #42433c;
+	-moz-box-shadow: 0 0 20px #F0F0F0;
+	-webkit-box-shadow: 0 0 20px #F0F0F0;
+	box-shadow: 0 0 20px #F0F0F0;
 	}
 body { font-family: 'Georgia' serif; font-size: 0.9em; }
 h1 { font-family: 'Garamond', 'Georgia', serif; font-weight: normal; }
 header { text-align: center; }
-header h1 a { text-decoration: none; color: #666; font-size: 1.5em; line-height: 10px;}
+header h1 a { text-decoration: none; color: #666; font-size: 1.5em; }
 header h1 a:visited { color: #666; }
-header h2 { font-size: 1em; font-weight: normal; }
-ul.nav { display: inline }
-ul.nav li { padding: 0 0.5em; }
+header h2, header h3 { font-size: 1em; font-weight: normal; }
+ul.nav { list-style: none; }
+ul.nav li { display: inline; padding: 0 0.5em; }
 
 /* ==|== non-semantic helper classes ========================================
    Please define your styles before this section.
