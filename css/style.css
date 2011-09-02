@@ -212,9 +212,11 @@ td { vertical-align: top; }
    ========================================================================== */
 
 /*========== My Style ==========*/
-#main { 
+body { background: #A0BABA; color: #F1F1D7; }
+#container { 
 	width: 600px;
 	margin: auto;
+	background: #62635E;
 	border-right: 1px solid black;
 	border-left: 1px solid black;
 	-moz-box-shadow: 0 0 10px #42433C;
