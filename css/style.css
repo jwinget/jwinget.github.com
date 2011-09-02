@@ -214,20 +214,23 @@ td { vertical-align: top; }
 /*========== My Style ==========*/
 body { background: white; color: #222; }
 #container { 
-	width: 600px;
+	width: 800px;
 	margin: auto;
+	margin-top: 0;
 	background: white;
 	border-right: 1px solid #999;
 	border-left: 1px solid #999;
 	-moz-box-shadow: 0 0 10px #42433C;
 	-webkit-box-shadow: 0 0 10px #42433C;
 	box-shadow: 0 0 10px #42433c;
+	padding: 0 1em;
 	}
-h1 { font-family: 'Garamond', 'Georgia', serif; }
+body { font-family: 'Georgia' serif; font-size: 0.9em; }
+h1 { font-family: 'Garamond', 'Georgia', serif; font-weight: normal; }
 header { text-align: center; }
 header h1 a { text-decoration: none; color: #222; font-size: 1.5em;}
 header h1 a:visited { color: #222; }
-header h2 { font-size: 1em; line-height: 25%; }
+header h2 { font-size: 1em; line-height: 10px; }
 
 
 
