@@ -225,7 +225,7 @@ body { background: white; color: #666; }
 	-webkit-box-shadow: 0 0 20px #F0F0F0;
 	box-shadow: 0 0 20px #F0F0F0;
 	}
-body { font-family: 'Georgia' serif; font-size: 0.9em; }
+body { font-family: 'Garamond', 'Georgia' serif; font-size: 0.9em; }
 h1 { font-family: 'Garamond', 'Georgia', serif; font-weight: normal; }
 header { text-align: center; }
 header h1 a { text-decoration: none; color: #666; font-size: 1.5em; }
@@ -246,7 +246,7 @@ a:hover { color: black; }
 a:visited { color: #666; }
 ul li { padding: 0.5em 0; }
 #intro { width: 66%; }
-.papers ul li a { display: block; }
+#papers ul li a { display: block; }
 
 /* ==|== non-semantic helper classes ========================================
    Please define your styles before this section.
