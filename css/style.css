@@ -218,7 +218,8 @@ td { vertical-align: top; }
 	}
 h1 { font-family: 'Podkova', 'Lucida Grande', serif; }
 header { text-align: center; }
-header h1 a { text-decoration: none; }
+header h1 a { text-decoration: none; color: none; font-size: 2em; }
+header h2 { font-size: 1em; line-height: -50%; }
 
 
 
