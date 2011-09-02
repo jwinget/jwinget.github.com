@@ -215,11 +215,19 @@ td { vertical-align: top; }
 #main { 
 	width: 600px;
 	margin: auto;
+	border-right: 1px solid black;
+	border-left: 1px solid black;
+	-moz-box-shadow: 0 0 10px #42433C;
+	-webkit-box-shadow: 0 0 10px #42433C;
+	box-shadow: 0 0 10px #42433c;
+	-moz-box-shadow:inset 0 0 5px #42433C;
+	-webkit-box-shadow:inset 0 0 5px #42433C;
+	box-shadow:inset 0 0 5px #42433C;
 	}
 h1 { font-family: 'Podkova', 'Lucida Grande', serif; }
 header { text-align: center; }
-header h1 a { text-decoration: none; color: none; font-size: 2em; }
-header h2 { font-size: 1em; line-height: -50%; }
+header h1 a { text-decoration: none; color: #C40D0D; font-size: 1.5em; line-height: 50%;}
+header h2 { font-size: 1em; }
 
 
 
