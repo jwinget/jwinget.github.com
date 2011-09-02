@@ -231,6 +231,14 @@ header { text-align: center; }
 header h1 a { text-decoration: none; color: #666; font-size: 1.5em; }
 header h1 a:visited { color: #666; }
 header h2, header h3 { font-size: 1em; font-weight: normal; }
+header:after {
+	height: 1px;
+	background: #666;
+	width: 75%;
+	display: block;
+	content: "";
+	margin: 6px auto;
+	}
 ul.nav { list-style: none; }
 ul.nav li { display: inline; padding: 0 0.5em; }
 
