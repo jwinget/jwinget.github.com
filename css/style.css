@@ -212,7 +212,7 @@ td { vertical-align: top; }
    ========================================================================== */
 
 /*========== My Style ==========*/
-body { background: #A0BABA; color: #F1F1D7; }
+body { background: #62635E; color: #F1F1D7; }
 #container { 
 	width: 600px;
 	margin: auto;
@@ -222,14 +222,12 @@ body { background: #A0BABA; color: #F1F1D7; }
 	-moz-box-shadow: 0 0 10px #42433C;
 	-webkit-box-shadow: 0 0 10px #42433C;
 	box-shadow: 0 0 10px #42433c;
-	-moz-box-shadow:inset 0 0 5px #42433C;
-	-webkit-box-shadow:inset 0 0 5px #42433C;
-	box-shadow:inset 0 0 5px #42433C;
 	}
 h1 { font-family: 'Podkova', 'Lucida Grande', serif; }
 header { text-align: center; }
-header h1 a { text-decoration: none; color: #C40D0D; font-size: 1.5em; line-height: 50%;}
-header h2 { font-size: 1em; }
+header h1 a { text-decoration: none; color: #C40D0D; font-size: 1.5em;}
+header h1 a:visited { color #C40D0D; }
+header h2 { font-size: 1em; line-height: 25%; }
 
 
 
