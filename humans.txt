@@ -3,13 +3,14 @@
 
 
 /* TEAM */
-  <your title>: <your name>
-  Site: 
-  Twitter: 
-  Location: 
+  Jason Winget
+  Site: jasonwinget.net
+  Twitter: @plausible
+  Location: Vancouver
 
 /* THANKS */
   Names (& URL): 
+  The makers of Github, Jekyll, and HTML5 Boilerplate
 
 /* SITE */
   Standards: HTML5, CSS3
