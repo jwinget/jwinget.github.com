@@ -241,6 +241,7 @@ header:after {
 	}
 ul.nav { list-style: none; }
 ul.nav li { display: inline; padding: 0 0.5em; }
+ul.nav li a { display: block; }
 a { color: #333; }
 a:hover { color: black; }
 a:visited { color: #666; }
