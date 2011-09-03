@@ -245,7 +245,7 @@ a { color: #333; }
 a:hover { color: black; }
 a:visited { color: #666; }
 ul li { padding: 0.5em 0; }
-#intro { width: 66%; text-align: center; }
+#intro { width: 66%; text-align: center; margin: auto; }
 #papers ul li a { display: block; }
 
 /* ==|== non-semantic helper classes ========================================
