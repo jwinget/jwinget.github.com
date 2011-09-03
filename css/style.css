@@ -211,7 +211,7 @@ td { vertical-align: top; }
    Author: Jason Winget
    ========================================================================== */
 
-body { background: white; color: #222; }
+body { background: white; color: #222; line-height: 140%; }
 #container { 
 	width: 800px;
 	margin: auto;
@@ -225,11 +225,11 @@ body { background: white; color: #222; }
 	-webkit-box-shadow: 0 0 20px #F0F0F0;
 	box-shadow: 0 0 20px #F0F0F0;
 	}
-body { font-family: 'Coustard', 'Garamond', 'Georgia' serif; font-size: 0.9em; }
+body { font-family: 'Coustard', 'Garamond', 'Georgia' serif; font-size: 1em; }
 h1 { font-family: 'Garamond', 'Georgia', serif; font-weight: normal; }
 header { text-align: center; }
-header h1 a { text-decoration: none; color: #666; font-size: 1.5em; }
-header h1 a:visited { color: #666; }
+header h1 a { text-decoration: none; color: #444; font-size: 1.5em; }
+header h1 a:visited { color: #444; }
 header h2, header h3 { font-size: 1em; font-weight: normal; }
 header:after {
 	height: 1px;
@@ -239,11 +239,11 @@ header:after {
 	content: "";
 	margin: 6px auto;
 	}
-ul.nav { list-style: none; }
+ul.nav, .papers { list-style: none; }
 ul.nav li { display: inline; padding: 0 0.5em; }
 a { color: #333; }
 a:hover { color: black; }
-a:visited { color: #666; }
+a:visited { color: #444; }
 ul li { padding: 0.5em 0; }
 #intro { width: 66%; text-align: center; margin: auto; }
 #papers ul li a { display: block; }
