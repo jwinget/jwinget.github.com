@@ -211,7 +211,7 @@ td { vertical-align: top; }
    Author: Jason Winget
    ========================================================================== */
 
-body { background: white; color: #555; }
+body { background: white; color: #444; }
 #container { 
 	width: 800px;
 	margin: auto;
