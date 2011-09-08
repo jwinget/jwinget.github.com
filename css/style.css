@@ -228,8 +228,8 @@ body { background: white; color: #222; line-height: 140%; }
 body { font-family: 'Coustard', 'Garamond', 'Georgia' serif; font-size: 1em; }
 h1, h5 { font-family: 'Garamond', 'Georgia', serif; font-weight: normal; }
 h5 { text-decoration: underline }
-header { text-align: center; }
-header h1 a { text-decoration: none; color: #444; font-size: 1.5em; }
+header { text-align: center; padding-top: 0.5em; }
+header h1 a { text-decoration: none; color: #444; font-size: 1.5em; line-height: 100%; }
 header h1 a:visited { color: #444; }
 header h2, header h3 { font-size: 1em; font-weight: normal; }
 header:after {
