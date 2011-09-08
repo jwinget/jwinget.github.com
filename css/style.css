@@ -226,7 +226,8 @@ body { background: white; color: #222; line-height: 140%; }
 	box-shadow: 0 0 20px #F0F0F0;
 	}
 body { font-family: 'Coustard', 'Garamond', 'Georgia' serif; font-size: 1em; }
-h1 { font-family: 'Garamond', 'Georgia', serif; font-weight: normal; }
+h1, h5 { font-family: 'Garamond', 'Georgia', serif; font-weight: normal; }
+h5 { text-decoration: underline }
 header { text-align: center; }
 header h1 a { text-decoration: none; color: #444; font-size: 1.5em; }
 header h1 a:visited { color: #444; }
